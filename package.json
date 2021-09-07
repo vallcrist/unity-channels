@@ -1,0 +1,16 @@
+{
+    "name": "com.vallcrist.unitychannels",
+    "version": "1.0.0",
+    "displayName": "Unity Channels",
+    "description": "",
+    "unity": "2019.1",
+    "dependencies": {},
+    "keywords": [
+        "Event System",
+        "Event Channel"
+    ],
+    "author": {
+        "name": "Jefferson Bandeira",
+        "email": "jefferson@bitcake.studio"
+    }
+}
